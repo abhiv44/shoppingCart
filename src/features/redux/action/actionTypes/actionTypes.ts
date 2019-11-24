@@ -1,0 +1,6 @@
+export const USERLOGIN = 'LOGIN'
+export const ERROR = 'ERROR'
+export const DASHBOARDDATA = 'DASHBOARD'
+export const FETCH_API = 'FETCH_API'
+export const SEARCH_FILTER = 'SEARCH_FILTER'
+export const ADD_TO_CART = 'ADD_TO_CART'
